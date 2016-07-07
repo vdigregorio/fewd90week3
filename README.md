@@ -2,7 +2,7 @@
 
 ![Screenshot](screenshot.png)
 
-## Mark-Up and Style a Landing Page
+## Mark-Up and Style a Multi-column Page
 
 Your job is to build out the Busy Hands landing page using the information below.
 
