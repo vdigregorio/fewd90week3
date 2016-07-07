@@ -1,4 +1,4 @@
-# Homework 2 - Busy Hands ([continued below](#step-1---fork-this-repository))
+# Homework 3 - Busy Hands ([continued below](#step-1---fork-this-repository))
 
 ![Screenshot](screenshot.png)
 
