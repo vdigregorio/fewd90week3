@@ -136,6 +136,9 @@ p{
   font-size: 7px;
   margin: 25px;
 }
+#widget3 p a{
+  border-bottom: none;
+}
 
 .home a{
   color: #cccccc;
